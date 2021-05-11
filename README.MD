@@ -4,7 +4,7 @@
 ![ScreenShot](/figures/fig1.png)
 
 ## License
-Copyright 2020 Jonathan W. Waks and Hans F. Stabeneau
+Copyright 2020 Jonathan W. Waks and Hans F. Stabenau
 Beth Israel Deaconess Medical Center, Boston MA
 
 This program is free software: you can redistribute it and/or modify
@@ -21,7 +21,8 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ## Manuscript:
-A detailed description of the ECGAug method is avaialble at
+A detailed description of the ECGAug method is available at <https://www.sciencedirect.com/science/article/abs/pii/S001048252100202X>
+HF Stabenau, CP Bridge, and JW Waks, ECGAug: A Novel Method of Generating Augmented Annotated Electrocardiogram QRST Complexes and Rhythm Strips, Computers in Biology and Medicine, 2021, In Press
 
 ## Files:
 
