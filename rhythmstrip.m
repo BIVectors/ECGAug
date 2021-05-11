@@ -10,7 +10,7 @@ function [rhythm_strip, Qloc, Sloc, Tloc, morph_selected, beat_selected] = ...
 %
 % Uses ECGAug transform_qrst() function
 %
-% Copyright 2020 Jonathan W. Waks and Hans F. Stabeneau
+% Copyright 2020 Jonathan W. Waks and Hans F. Stabenau
 % Beth Israel Deaconess Medical Center, Boston MA
 %
 % This program is free software: you can redistribute it and/or modify
