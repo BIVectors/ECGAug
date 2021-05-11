@@ -9,7 +9,7 @@ function [sig_new, Qnew, Snew, Tnew, bad_combo, op] = ...
 % random transformation of the QRS template and T template indepdently and
 % then recombines into a new signal with adjusted annotations
 %
-% Copyright 2020 Jonathan W. Waks and Hans F. Stabeneau
+% Copyright 2020 Jonathan W. Waks and Hans F. Stabenau
 % Beth Israel Deaconess Medical Center, Boston MA
 %
 % This program is free software: you can redistribute it and/or modify
