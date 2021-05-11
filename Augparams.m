@@ -5,7 +5,7 @@
 % ECGAug input parameter class for use with recombine_qrst(),
 % transform_qrst(), and rhythmstrip()
 %
-% Copyright 2020 Jonathan W. Waks and Hans F. Stabeneau
+% Copyright 2020 Jonathan W. Waks and Hans F. Stabenau
 % Beth Israel Deaconess Medical Center, Boston MA
 %
 % This program is free software: you can redistribute it and/or modify
