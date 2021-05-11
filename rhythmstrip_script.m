@@ -11,7 +11,7 @@
 % as needed.  Adjust Augparams between loop iterations to generate 
 % additional diversity.
 %
-% Copyright 2020 Jonathan W. Waks and Hans F. Stabeneau
+% Copyright 2020 Jonathan W. Waks and Hans F. Stabenau
 % Beth Israel Deaconess Medical Center, Boston MA
 %
 % This program is free software: you can redistribute it and/or modify
